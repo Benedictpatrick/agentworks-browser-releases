@@ -1,6 +1,8 @@
 # AgentWorks Browser — Downloads
 
-A real browser your AI agents can drive. Claude Code and Codex use it to test your apps, fill forms and run automations while you watch every step. Automations replay on a schedule or from n8n, Make and Zapier.
+A free browser your AI agents can drive, for anyone. Your agent uses it to test your apps, fill forms and run automations while you watch every step. Automations replay on a schedule or from n8n, Make and Zapier.
+
+**Works with:** Claude Code · Codex · Cursor · Windsurf · Devin · Claude Desktop · Gemini CLI · GitHub Copilot · any MCP app.
 
 **[⬇ Download the latest version](https://github.com/Benedictpatrick/agentworks-browser-releases/releases/latest)**
 
@@ -17,10 +19,10 @@ A real browser your AI agents can drive. Claude Code and Codex use it to test yo
 - **Mac:** open the .dmg and drag AgentWorks Browser to Applications. Until the app is notarized by Apple, right-click the app and choose **Open** the first time.
 - **Linux:** make the AppImage executable (`chmod +x`) and run it, or install the .deb.
 
-Then open the **Agent** panel and click **Connect Claude Code & Codex**.
+Then open the **Agent** panel and click **Connect my AI agents**. It sets up every supported app it finds. For any other MCP app, copy the config under **Manual setup & other apps**.
 
 Installed copies update themselves automatically.
 
 ---
 
-[AgentWorks](https://agentworks-ten.vercel.app): Automation & AI Agent Studio. Systems that run on their own.
+Want automations built for your business? [AgentWorks](https://agentworks-ten.vercel.app) designs, builds and looks after them for you.
